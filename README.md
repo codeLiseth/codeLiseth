@@ -55,7 +55,7 @@ Soy desarrolladora Front-End en formación, enfocada en crear aplicaciones web f
 - LinkedIn: https://www.linkedin.com/in/liseth-denisse-varas-zepeda-97601aa4
 
 ## 📂 Ultimo proyecto
-# 🛍️ Vue Product Showcase
+# 🛍️ Vue Product Showcase : https://github.com/codeLiseth/vue-product-showcase
 
 Aplicación web desarrollada con Vue que permite visualizar productos de forma dinámica, simulando un catálogo digital.
 
@@ -78,7 +78,7 @@ Este proyecto fue desarrollado como parte de mi formación en desarrollo Front-E
 
 ## 📸 Vista previa
 
-
+<img src="ProyectoShowCase.png">
 
 ## ▶️ Cómo ejecutar
 
