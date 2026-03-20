@@ -4,12 +4,6 @@
 <img src="banner.png">
 
 
-## Sobre mi
-
-- Liseth | Front-End Developer
-- Vue | JavaScript | Web
-- “Aprendiendo y construyendo proyectos”
-<br>
 👩🏻‍💻 Hola, soy Liseth
 
 Soy desarrolladora Front-End en formación, enfocada en crear aplicaciones web funcionales y bien organizadas.
